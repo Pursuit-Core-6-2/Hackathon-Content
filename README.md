@@ -55,8 +55,5 @@ Your API Endpoints should include at least:
 | **`/about`**                  | Shows short description of what this app is about and who made it                                                                                                                                                                                                                                          |
 
 ## Wireframes 
-<object data="wireframes.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="wireframes.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./wireframes.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[Wireframes Here](wireframes.pdf)
+
